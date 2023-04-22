@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Valerian</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=valeriancoelho&label=Profile%20views&color=0e75b6&style=flat" alt="valeriancoelho" /> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Python**
