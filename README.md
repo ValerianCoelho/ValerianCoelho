@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Valerian</h1>
-<h3 align="center">Full-stack engineer from India · professional LLM babysitter · part-time bug creator, full-time bug fixer</h3>
+<h3 align="center">AI & Product Engineer</h3>
 
 ```ts
 const valerian = {
